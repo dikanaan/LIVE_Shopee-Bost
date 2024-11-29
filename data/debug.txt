@@ -1,0 +1,12 @@
+Debug 22:18:34: IsEnginesInAppData true
+Debug 22:18:34: KeepVersionNumber 5
+Debug 22:18:34: InstallerVersion 3.0
+Debug 22:18:34: IsValid true IsX64 true IsSilent false IsRemote false ScriptName "e3b0c442" Server "" Username "" PasswordLength 0
+Debug 22:18:34: ScriptHash "e1195690" EngineVersion "28.1.2"
+Debug 22:18:34: AppPath "appslocal/e3b0c442/SIDe1195690/engine/FastExecuteScript.exe" "appslocal/e3b0c442/SIDe1195690/engine/"
+Debug 22:18:34: EnginePath "C:/Users/admin/AppData/Local/BasEngines/engines/28.1.2/engine.zip"
+Debug 22:18:34: Downloading "distr/FastExecuteScript64/28.1.2/FastExecuteScript.x64.zip"
+Debug 22:18:34: "Downloading meta distr/FastExecuteScript64/28.1.2/FastExecuteScript.x64.zip.meta.json"
+Debug 22:18:36: "Using alternative url - http://downloads./distr/FastExecuteScript64/28.1.2/FastExecuteScript.x64.zip"
+Debug 22:18:36: "Meta was correctly downloaded and parsed"
+Debug 22:18:36: "Start download chunk - 0"
